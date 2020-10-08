@@ -1,2 +1,2 @@
-# SqliteCrude
+# SQLite Crude
 Android SQLite CRUD
