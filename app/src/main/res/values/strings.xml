@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SqliteCrude</string>
+    <string name="tvTitle" >Title</string>
+    <string name="tvContent" >Content</string>
+    <string name="ivEdit" />
+    <string name="ivDelete" />
+    <string name="edtTitle">Sample Approach</string>
+    <string name="edtContent">Java technology, Spring Framework - approach to Java by Sample.</string>
+    <string name="btAdd">Add</string>
+    <string name="Add" />
+</resources>
