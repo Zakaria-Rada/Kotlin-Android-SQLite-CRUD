@@ -1,2 +1,2 @@
-# SQLite Crude
-Android SQLite CRUD
+# SQLite CRUD
+Kotlin-Android-SQLite-CRUD
